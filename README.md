@@ -51,9 +51,3 @@ git remote add <имя для репозитория> <url-адрес репоз
 git push <remote-name> <branch-name>
 ```
 
-* Для того, чтобы поделиться своими наработками, 
-используйте команду: 
-
-```
-git push <remote-name> <branch-name>
-```
